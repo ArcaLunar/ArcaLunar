@@ -22,4 +22,6 @@ Here are some ideas to get you started:
 
 ![ArcaLunar's GitHub stats](https://github-readme-stats-sooty-ten-59.vercel.app/api?username=ArcaLunar&show_icons=true&theme=default)
 
+![GitHub Streak](https://github-readme-streak-stats-ten-inky.vercel.app/?user=ArcaLunar)
+
 ![Top Langs](https://github-readme-stats-sooty-ten-59.vercel.app/api/top-langs/?username=ArcaLunar&hide=html,css,js)

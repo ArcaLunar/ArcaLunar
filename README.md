@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 ## Stats
 
-![ArcaLunar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArcaLunar&show_icons=true&theme=dracula)
+![ArcaLunar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArcaLunar&show_icons=true)

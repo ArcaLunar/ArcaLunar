@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 ## Stats
 
-![ArcaLunar's GitHub stats](https://github-readme-stats-sooty-ten-59.vercel.app/api?username=ArcaLunar&show_icons=true&theme=darcula)
+![ArcaLunar's GitHub stats](https://github-readme-stats-sooty-ten-59.vercel.app/api?username=ArcaLunar&show_icons=true&theme=default)
 
 ![Top Langs](https://github-readme-stats-sooty-ten-59.vercel.app/api/top-langs/?username=ArcaLunar&hide=html,css,js)

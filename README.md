@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 ## Stats
 
 ![ArcaLunar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArcaLunar&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArcaLunar)

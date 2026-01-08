@@ -1,3 +1,6 @@
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ArcaLunar)
+
 ## Hi there 👋
 
 <!--
@@ -14,3 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Stats
+
+[![ArcaLunar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArcaLunar&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
